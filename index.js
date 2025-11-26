@@ -29,7 +29,7 @@ import {
 // Configuration (edit IDs or use env)
 // -----------------------------
 const TOKEN = process.env.TOKEN;
-const CLIENT_ID = process.env.CLIENT_ID || '1443263679389892763';
+const CLIENT_ID = process.env.CLIENT_ID || '1443267760170729593';
 const GUILD_ID = process.env.GUILD_ID || '1357525113578324148';
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY || null;
 const ENABLE_VOICE = process.env.ENABLE_VOICE === 'true';
